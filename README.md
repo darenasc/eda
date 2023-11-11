@@ -119,7 +119,7 @@ mindmap
 - How many files, tables, databases?
 - Per item: How many columns and rows?
 - Are there any encoding issues?
-- Verify data types of columns: Discrete, Continuous, Dates, other.
+- Verify data types of columns: Discrete, Continuous, Dates, GIS, network, other.
 - Univariate analysis
   - Histogram
   - Bar plot
