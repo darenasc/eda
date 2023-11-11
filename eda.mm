@@ -1,6 +1,6 @@
 <map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Exploratory&#xa;Data&#xa;Analysis" FOLDED="false" ID="ID_1122789912" CREATED="1698519591730" MODIFIED="1698519608608"><hook NAME="MapStyle">
+<node TEXT="Exploratory&#xa;Data&#xa;Analysis" FOLDED="false" ID="ID_1122789912" CREATED="1698519591730" MODIFIED="1698519608608"><hook NAME="MapStyle" zoom="1.5">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -161,6 +161,7 @@
 <node TEXT="ydata-profiling" ID="ID_1565682273" CREATED="1698527962317" MODIFIED="1699677725579"/>
 <node TEXT="sweetviz" ID="ID_55470395" CREATED="1698527965924" MODIFIED="1699677748760"/>
 <node TEXT="pygwalker" ID="ID_17265904" CREATED="1699677742670" MODIFIED="1699690297679"/>
+<node TEXT="facets" ID="ID_1100201535" CREATED="1699715984758" MODIFIED="1699715986588"/>
 <node TEXT="pandas" ID="ID_248518991" CREATED="1698526938584" MODIFIED="1698526943184"/>
 <node TEXT="geopandas" ID="ID_1976182140" CREATED="1698526943524" MODIFIED="1698526946723"/>
 <node TEXT="networkx" ID="ID_1051022158" CREATED="1698526947234" MODIFIED="1698526949490"/>

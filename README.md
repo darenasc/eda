@@ -56,6 +56,7 @@ Some python libraries to explore data.
 - [ydata-profiling](https://github.com/ydataai/ydata-profiling) (former pandas-profiling)
 - [sweetviz](https://github.com/fbdesignpro/sweetviz)
 - [pygwalker](https://github.com/Kanaries/pygwalker)
+- [facets](https://github.com/pair-code/facets)
 - [datapane](https://github.com/datapane/datapane)
 - [streamlit](https://github.com/streamlit/streamlit)
 - [gradio](https://github.com/gradio-app/gradio)
