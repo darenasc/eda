@@ -1,5 +1,7 @@
 # Exploratory Data Analysis
 
+This repository was prepared for CorrelCon 2023. Slides are available [here](https://docs.google.com/presentation/d/1mYtzt5Tfk_xbYSWUBRgiNH5TumJNUWlRVDMeyntee_w/edit?usp=sharing).
+
 ## How to use this repository
 
 You can clone this repository and use it locally as follows.
@@ -117,4 +119,11 @@ mindmap
 - How many files, tables, databases?
 - Per item: How many columns and rows?
 - Are there any encoding issues?
-- 
+- Verify data types of columns: Discrete, Continuous, Dates, other.
+- Univariate analysis
+  - Histogram
+  - Bar plot
+  - Boxplot
+- Multivariate analysis
+  - Correlations
+  - Use target variable to visualize other features
