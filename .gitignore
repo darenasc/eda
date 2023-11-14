@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 Pipfile.lock
+notebooks/SWEETVIZ_REPORT.html
