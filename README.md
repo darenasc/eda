@@ -1,6 +1,7 @@
 # Exploratory Data Analysis
 
-This repository was prepared for CorrelCon 2023. Slides are available [here](https://docs.google.com/presentation/d/1mYtzt5Tfk_xbYSWUBRgiNH5TumJNUWlRVDMeyntee_w/edit?usp=sharing).
+- 11.12.2023. Slides DataKindUK SDS available [here](https://docs.google.com/presentation/d/1KWrMbF5Q-gffoc5sXn0B31lyiACdFHiiPWay0MI5Vdw/edit?usp=sharing).
+- 11.11.2023. Slides CorrelCon 2023 available [here](https://docs.google.com/presentation/d/1mYtzt5Tfk_xbYSWUBRgiNH5TumJNUWlRVDMeyntee_w/edit?usp=sharing).
 
 ## How to use this repository
 
@@ -13,7 +14,7 @@ pip install pipenv
 pipenv install Pipfile
 ```
 
-Or you can go to the [eda.ipynb](notebooks/eda.ipynb) notebook and open it in Colab.
+Or you can go to the [eda.ipynb](notebooks/eda_dkuk_sds.ipynb) notebook and open it in Colab.
 
 # EDA Mindmap
 
@@ -32,6 +33,7 @@ more
 less
 head
 tail 
+# Count number of lines
 wc -l
 # Search in files
 grep
