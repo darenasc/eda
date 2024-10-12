@@ -15,6 +15,9 @@ ipywidgets = "*"
 requests = "*"
 html5lib = "*"
 pygwalker = "*"
+ucimlrepo = "*"
+psycopg2-binary = "*"
+openpyxl = "*"
 
 [dev-packages]
 

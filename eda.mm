@@ -1,6 +1,6 @@
 <map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Exploratory&#xa;Data&#xa;Analysis" FOLDED="false" ID="ID_1122789912" CREATED="1698519591730" MODIFIED="1698519608608"><hook NAME="MapStyle" zoom="1.5">
+<node TEXT="Exploratory&#xa;Data&#xa;Analysis" FOLDED="false" ID="ID_1122789912" CREATED="1698519591730" MODIFIED="1698519608608"><hook NAME="MapStyle">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -173,8 +173,8 @@
 <node TEXT="annonymize data" ID="ID_234925360" CREATED="1699553915148" MODIFIED="1699553924318"/>
 <node TEXT="differential privacy" ID="ID_554725417" CREATED="1699553933194" MODIFIED="1699553938507"/>
 </node>
-<node TEXT="Guide" POSITION="top_or_left" ID="ID_450486178" CREATED="1706265143379" MODIFIED="1706265146442">
-<node TEXT="data collection" ID="ID_20026075" CREATED="1706265147996" MODIFIED="1706265159599">
+<node TEXT="Guide" FOLDED="true" POSITION="top_or_left" ID="ID_450486178" CREATED="1706265143379" MODIFIED="1706265146442">
+<node TEXT="data collection" FOLDED="true" ID="ID_20026075" CREATED="1706265147996" MODIFIED="1706265159599">
 <node TEXT="what kind of data would be useful to have?" ID="ID_1496439309" CREATED="1706271816796" MODIFIED="1706271827250"/>
 </node>
 <node TEXT="data profiling" ID="ID_548428461" CREATED="1706265159840" MODIFIED="1706265166604"/>

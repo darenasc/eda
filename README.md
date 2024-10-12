@@ -1,5 +1,6 @@
 # Exploratory Data Analysis
 
+- 12.10.2024. Slides CorrelCon 2024 available [here](https://docs.google.com/presentation/d/18An6Y9cGu1lSO2enbFsOwY-xxaPBPh12tw7MJAZluOk/edit?usp=sharing).
 - 11.12.2023. Slides DataKindUK SDS available [here](https://docs.google.com/presentation/d/1KWrMbF5Q-gffoc5sXn0B31lyiACdFHiiPWay0MI5Vdw/edit?usp=sharing).
 - 11.11.2023. Slides CorrelCon 2023 available [here](https://docs.google.com/presentation/d/1mYtzt5Tfk_xbYSWUBRgiNH5TumJNUWlRVDMeyntee_w/edit?usp=sharing).
 
